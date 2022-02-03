@@ -9,8 +9,8 @@ In this project I use Python Pandas & Python Matplotlib to analyze and answer bu
 - Change the type of columns (to_numeric, to_datetime, astype)
 
 # 1.2 Questions Aswered
-What was the best month for sales? How much was earned that month?
-What city sold the most product?
-What time should we display advertisemens to maximize the likelihood of customer’s buying product?
-What products are most often sold together?
-What product sold the most? Why do you think it sold the most?
+- What was the best month for sales? How much was earned that month?
+- What city sold the most product?
+- What time should we display advertisemens to maximize the likelihood of customer’s buying product?
+- What products are most often sold together?
+- What product sold the most? Why do you think it sold the most?
